@@ -1,0 +1,6 @@
+# file patterns to ignore
+*.pyc
+*.pyo
+*.orig
+.DS_Store
+*.so
