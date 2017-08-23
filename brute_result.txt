@@ -407,3 +407,4 @@ Tue Aug 22 19:01:59 UTC 2017
 {"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 2.0, "momentum": 0.2, "accuracy": 0.9761}
 {"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 2.0, "momentum": 0.3, "accuracy": 0.9713}
 {"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 2.0, "momentum": 0.4, "accuracy": 0.9738}
+{"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9706}
