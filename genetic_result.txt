@@ -1,0 +1,167 @@
+Tue Aug 22 12:56:30 UTC 2017
+{"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 4.0, "momentum": 0.1, "accuracy": 0.9695}
+{"layer 1": 100, "layer 2": 60, "layer 3": 40, "lmbda": 4.0, "momentum": 0.1, "accuracy": 0.9783}
+{"layer 1": 100, "layer 2": 60, "layer 3": 10, "lmbda": 4.0, "momentum": 0.2, "accuracy": 0.9717}
+{"layer 1": 90, "layer 2": 40, "layer 3": 30, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9703}
+{"layer 1": 70, "layer 2": 40, "layer 3": 30, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9706}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9748}
+{"layer 1": 90, "layer 2": 50, "layer 3": 20, "lmbda": 2.0, "momentum": 0.2, "accuracy": 0.9736}
+{"layer 1": 70, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9715}
+{"layer 1": 80, "layer 2": 60, "layer 3": 40, "lmbda": 1.0, "momentum": 0.4, "accuracy": 0.9667}
+{"layer 1": 80, "layer 2": 70, "layer 3": 40, "lmbda": 2.0, "momentum": 0.3, "accuracy": 0.9691}
+{"layer 1": 90, "layer 2": 40, "layer 3": 40, "lmbda": 3.0, "momentum": 0.4, "accuracy": 0.9709}
+{"layer 1": 70, "layer 2": 50, "layer 3": 40, "lmbda": 2.0, "momentum": 0.2, "accuracy": 0.9697}
+{"layer 1": 80, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9653}
+{"layer 1": 100, "layer 2": 40, "layer 3": 10, "lmbda": 2.0, "momentum": 0.3, "accuracy": 0.9691}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 3.0, "momentum": 0.2, "accuracy": 0.9703}
+{"layer 1": 90, "layer 2": 40, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9742}
+{"layer 1": 100, "layer 2": 70, "layer 3": 40, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.972}
+{"layer 1": 80, "layer 2": 60, "layer 3": 10, "lmbda": 2.0, "momentum": 0.2, "accuracy": 0.9657}
+{"layer 1": 70, "layer 2": 50, "layer 3": 30, "lmbda": 4.0, "momentum": 0.3, "accuracy": 0.9606}
+{"layer 1": 90, "layer 2": 40, "layer 3": 40, "lmbda": 4.0, "momentum": 0.3, "accuracy": 0.9695}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9735}
+{"layer 1": 100, "layer 2": 70, "layer 3": 40, "lmbda": 4.0, "momentum": 0.1, "accuracy": 0.9705}
+{"layer 1": 90, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9707}
+{"layer 1": 100, "layer 2": 40, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9691}
+{"layer 1": 80, "layer 2": 60, "layer 3": 10, "lmbda": 2.0, "momentum": 0.2, "accuracy": 0.9686}
+{"layer 1": 100, "layer 2": 60, "layer 3": 40, "lmbda": 4.0, "momentum": 0.1, "accuracy": 0.9645}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 3.0, "momentum": 0.2, "accuracy": 0.9676}
+{"layer 1": 90, "layer 2": 60, "layer 3": 20, "lmbda": 4.0, "momentum": 0.3, "accuracy": 0.9682}
+{"layer 1": 80, "layer 2": 40, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9747}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 4.0, "momentum": 0.2, "accuracy": 0.9693}
+{"layer 1": 100, "layer 2": 60, "layer 3": 10, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9705}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.973}
+{"layer 1": 100, "layer 2": 70, "layer 3": 10, "lmbda": 4.0, "momentum": 0.2, "accuracy": 0.9598}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 0.0, "momentum": 0.3, "accuracy": 0.9697}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9725}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 4.0, "momentum": 0.2, "accuracy": 0.974}
+{"layer 1": 70, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.4, "accuracy": 0.9706}
+{"layer 1": 90, "layer 2": 40, "layer 3": 40, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.952}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9724}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.974}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.976}
+{"layer 1": 80, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9698}
+{"layer 1": 100, "layer 2": 70, "layer 3": 0, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.1028}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9649}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9688}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9746}
+{"layer 1": 80, "layer 2": 40, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9697}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9739}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9713}
+{"layer 1": 80, "layer 2": 40, "layer 3": 30, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9707}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9736}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9741}
+{"layer 1": 100, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9713}
+{"layer 1": 80, "layer 2": 70, "layer 3": 30, "lmbda": 3.0, "momentum": 0.0, "accuracy": 0.9705}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 0.0, "momentum": 0.3, "accuracy": 0.9735}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9686}
+{"layer 1": 80, "layer 2": 40, "layer 3": 20, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.973}
+{"layer 1": 100, "layer 2": 70, "layer 3": 30, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.976}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9724}
+{"layer 1": 80, "layer 2": 40, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9655}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9654}
+{"layer 1": 80, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9721}
+{"layer 1": 100, "layer 2": 70, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9739}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9755}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9702}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9655}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9709}
+{"layer 1": 60, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9707}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9761}
+{"layer 1": 100, "layer 2": 70, "layer 3": 30, "lmbda": 0.0, "momentum": 0.3, "accuracy": 0.9729}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9738}
+{"layer 1": 100, "layer 2": 40, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9713}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9613}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9735}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9754}
+{"layer 1": 100, "layer 2": 70, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9646}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9729}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9764}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9716}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9729}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9751}
+{"layer 1": 80, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9716}
+{"layer 1": 100, "layer 2": 40, "layer 3": 20, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9719}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9685}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9744}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9723}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9741}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9728}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9741}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9703}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9736}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9725}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9716}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9715}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9722}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.0, "accuracy": 0.9764}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9722}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9581}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9727}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9722}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9719}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9735}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9742}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9726}
+{"layer 1": 100, "layer 2": 60, "layer 3": 30, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.9723}
+{"layer 1": 100, "layer 2": 30, "layer 3": 0, "lmbda": 3.0, "momentum": 0.1, "accuracy": 0.1009}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.1, "accuracy": 0.9734}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.0, "accuracy": 0.974}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9749}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9731}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9741}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9716}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 3.0, "momentum": 0.3, "accuracy": 0.9705}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.0, "accuracy": 0.973}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.0, "accuracy": 0.9742}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9674}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9681}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9733}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9751}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.971}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9736}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9733}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9696}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9713}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9743}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9681}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9678}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.973}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9724}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9727}
+{"layer 1": 100, "layer 2": 60, "layer 3": 0, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.101}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9728}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9742}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9727}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9721}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9747}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9725}
+{"layer 1": 100, "layer 2": 70, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.975}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9746}
+{"layer 1": 100, "layer 2": 60, "layer 3": 20, "lmbda": 1.0, "momentum": 0.3, "accuracy": 0.9733}
+gen	nevals	avg    	std       	min   	max   
+0  	20    	0.97017	0.00370461	0.9606	0.9783
+1  	13    	0.970595	0.0037357 	0.9598	0.9748
+2  	12    	0.927985	0.189381  	0.1028	0.976 
+3  	15    	0.972575	0.00258687	0.9655	0.976 
+4  	13    	0.971895	0.00373155	0.9613	0.9761
+5  	8     	0.973605	0.00258485	0.9646	0.9764
+6  	12    	0.973505	0.00206941	0.9685	0.9764
+7  	14    	0.92934 	0.190095  	0.1009	0.9764
+8  	11    	0.97329 	0.00243021	0.9674	0.9764
+9  	13    	0.929415	0.190067  	0.101 	0.9764
+10 	9     	0.97388 	0.00136587	0.9713	0.9764
+gen	nevals	avg     	std       	min   	max   
+0  	20    	0.97017 	0.00370461	0.9606	0.9783
+1  	13    	0.970595	0.0037357 	0.9598	0.9748
+2  	12    	0.927985	0.189381  	0.1028	0.976 
+3  	15    	0.972575	0.00258687	0.9655	0.976 
+4  	13    	0.971895	0.00373155	0.9613	0.9761
+5  	8     	0.973605	0.00258485	0.9646	0.9764
+6  	12    	0.973505	0.00206941	0.9685	0.9764
+7  	14    	0.92934 	0.190095  	0.1009	0.9764
+8  	11    	0.97329 	0.00243021	0.9674	0.9764
+9  	13    	0.929415	0.190067  	0.101 	0.9764
+10 	9     	0.97388 	0.00136587	0.9713	0.9764
+[array('b', [40, 30, 40, 40, 10]), array('b', [40, 30, 20, 10, 0]), array('b', [40, 30, 20, 10, 30]), array('b', [40, 40, 30, 10, 30]), array('b', [40, 30, 30, 30, 10])]
+Tue Aug 22 19:01:59 UTC 2017
